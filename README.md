@@ -4,7 +4,6 @@ Watchbox is a lightweight movie tracker desktop app built with WinForms and SQLi
 
 ## Features
 - Add / browse movies
-- Cover support (Assets/Covers)
 - Portable demo: creates a local SQLite DB on first run
 
 ## Download
