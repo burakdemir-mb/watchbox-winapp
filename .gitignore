@@ -1,0 +1,13 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# SQLite runtime db
+*.db
+*.db-wal
+*.db-shm
+
+# publish folders
+**/publish/
